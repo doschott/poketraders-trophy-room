@@ -1,0 +1,16 @@
+node_modules/
+.node_modules.lock
+.vercel/
+.tanstack/
+.output/
+dist/
+artifacts/
+screenshots/
+.grok/*
+!.grok/app-env.json
+*.log
+.DS_Store
+.env
+.env.local
+.project_id
+AGENTS.md
